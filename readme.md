@@ -26,8 +26,8 @@ This project requires **GPU acceleration** for training and was tested on:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/movie-classification-group9.git
-cd movie-classification-group9
+git clone https://github.com/yourusername/Crazy-Movie.git
+cd Crazy-Movie
 ```
 
 ---
