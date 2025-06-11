@@ -1,4 +1,4 @@
-# 🎬 Movie Frame Identification with CNN-LSTM (Group 9)
+# 🎬 Movie Frame Identification with CNN-LSTM
 
 This project focuses on **automated movie title classification** using frame-level image features. We built a deep learning pipeline that processes individual movie frames and predicts the corresponding movie name using a **CNN-LSTM hybrid model**.
 
